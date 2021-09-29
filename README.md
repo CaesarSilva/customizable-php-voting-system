@@ -19,7 +19,7 @@ One of the main issues is that in order to add a new type of question, multiple 
  If the discord user has already received an invitation, nothing happens.  
  It depends on discord.js, jssha, dotenv. They can be installed using npm install.  
  The simple php api is located in getinvitation.php.
- The bot can only handle one votation at a time, the votation ID can be edited on .env.
+ The bot can only handle one voting at a time, the voting ID can be edited on .env.
  
  
  
